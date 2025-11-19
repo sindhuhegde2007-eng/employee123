@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv) != 5:
+if len(sys.argv) != 4:
     print("Usage: python bonus_calc.py <employee_name> <performance_rating> <performance_bonus> <bonus_percentage>")
     
     employee_name = "sara"
